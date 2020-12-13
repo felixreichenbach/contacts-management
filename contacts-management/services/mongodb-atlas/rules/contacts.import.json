@@ -1,6 +1,7 @@
 {
     "collection": "import",
     "database": "contacts",
+    "id": "5fd671c60af76164692534be",
     "roles": [
         {
             "name": "owner",
