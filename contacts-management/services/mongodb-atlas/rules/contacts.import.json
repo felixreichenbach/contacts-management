@@ -1,0 +1,20 @@
+{
+    "collection": "import",
+    "database": "contacts",
+    "id": "5fd4b86a70a9c0967fe369ef",
+    "roles": [
+        {
+            "name": "owner",
+            "apply_when": {
+                "userID": "%%user.id"
+            },
+            "read": true,
+            "write": true,
+            "insert": true,
+            "delete": true,
+            "search": true,
+            "additional_fields": {}
+        }
+    ],
+    "schema": {}
+}
