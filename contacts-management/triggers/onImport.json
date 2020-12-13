@@ -7,7 +7,7 @@
         ],
         "database": "contacts",
         "collection": "import",
-        "service_name": "mongod-atlas",
+        "service_name": "mongodb-atlas",
         "match": {},
         "project": {},
         "full_document": false,

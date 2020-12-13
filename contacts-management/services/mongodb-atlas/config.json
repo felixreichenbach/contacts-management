@@ -1,5 +1,5 @@
 {
-    "name": "mongod-atlas",
+    "name": "mongodb-atlas",
     "type": "mongodb-atlas",
     "config": {
         "clusterName": "contacts-management",
