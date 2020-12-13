@@ -1,6 +1,5 @@
 {
-    "id": "5fd4b80a28641f3f781d977f",
-    "name": "mongodb-atlas",
+    "name": "mongod-atlas",
     "type": "mongodb-atlas",
     "config": {
         "clusterName": "contacts-management",

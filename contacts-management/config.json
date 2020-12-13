@@ -1,13 +1,11 @@
 {
-    "app_id": "contacts-management-quucp",
     "config_version": 20200603,
     "name": "contacts-management",
     "location": "IE",
     "deployment_model": "LOCAL",
     "security": {},
     "hosting": {
-        "enabled": true,
-        "app_default_domain": "contacts-management-quucp.mongodbstitch.com"
+        "enabled": true
     },
     "custom_user_data_config": {
         "enabled": false

@@ -1,5 +1,4 @@
 {
-    "id": "5fd4f7d170a9c0967f20f887",
     "name": "onImport",
     "type": "DATABASE",
     "config": {
@@ -8,7 +7,7 @@
         ],
         "database": "contacts",
         "collection": "import",
-        "service_name": "mongodb-atlas",
+        "service_name": "mongod-atlas",
         "match": {},
         "project": {},
         "full_document": false,
